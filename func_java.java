@@ -51,17 +51,3 @@ public class func_java {
         scan.close();
     }
 }
-
-/* 
-
-
-public class Main {
-  // Create a method named welcomeMessage
-
-  public static void main(String[] args) {
-    // Call the welcome method here
-  }
-}
-
-
-*/ 
